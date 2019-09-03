@@ -1,0 +1,243 @@
+onset	duration	offset	block	task	trial	lexicality	congruency	stimulus	stimulus_spaced	correct	response_time	word_freq	nb_letters	nb_phonemes	ratio	nb_syllables
+0.241288622757565	5	5.24128862275757	5	instructions lexical decision	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+10.5415	0.2018	10.7433	5	lexical decision	1	pseudoword	incongruent	ennoûlant	e nno ûl a nt	0	1.0034	n/a	9	5	1.8	3
+15.5082	0.2015	15.7097	5	lexical decision	2	word	congruent	dessein	d e ss ein	1	2.1425	14.86	7	4	1.75	2
+18.1533	0.2015	18.3548	5	lexical decision	3	pseudoword	incongruent	ceinritin	c ei nr i ti n	1	1.0074	n/a	9	6	1.5	3
+20.4905	0.2019	20.6924	5	lexical decision	4	pseudoword	incongruent	consouse	co n so use	1	0.7823	n/a	8	5	1.6	2
+23.1727	0.2019	23.3746	5	lexical decision	5	word	congruent	blaireau	b l ai r eau	1	0.5808	3.78	8	5	1.6	2
+25.533	0.2015	25.7345	5	lexical decision	6	pseudoword	congruent	aubluche	au b l u che	1	0.7917	n/a	8	5	1.6	2
+27.9126	0.2015	28.114	5	lexical decision	7	word	congruent	haineuse	hai n eu se	1	0.6131	6.42	8	4	2	2
+33.175	0.2016	33.3766	5	lexical decision	8	word	congruent	penchant	p en ch ant	1	0.6505	5.27	8	4	2	2
+35.5101	0.2016	35.7117	5	lexical decision	9	pseudoword	congruent	mounnon	m ou nn on	1	0.6284	n/a	7	4	1.75	2
+42.7972	0.2015	42.9987	5	lexical decision	10	word	congruent	quinte	qu in te	0	0.8252	4.86	6	3	2	1
+45.1177	0.2015	45.3193	5	lexical decision	11	word	incongruent	chou	c ho u	1	0.6856	21.96	4	2	2	1
+47.4715	0.2014	47.6729	5	lexical decision	12	pseudoword	congruent	accounnant	a cc ou nn ant	1	0.7679	n/a	10	5	2	3
+50.151	0.2015	50.3525	5	lexical decision	13	pseudoword	congruent	tanchant	t an ch ant	0	n/a	n/a	8	4	2	2
+52.5095	0.2017	52.7112	5	lexical decision	14	pseudoword	incongruent	tanquanse	ta nq ua n se	1	0.3509	n/a	9	5	1.8	2
+54.8874	0.2012	55.0887	5	lexical decision	15	pseudoword	incongruent	aitance	a ita nc e	1	0.6538	n/a	7	4	1.75	2
+57.5481	0.2014	57.7495	5	lexical decision	16	word	incongruent	pendant	pe n da nt	1	0.5832	12.5	7	4	1.75	2
+60.2272	0.2013	60.4284	5	lexical decision	17	pseudoword	congruent	jinge	j in ge	1	0.666	n/a	5	3	1.667	1
+62.5901	0.202	62.7921	5	lexical decision	18	pseudoword	incongruent	eussopie	e us s op ie	1	1.777	n/a	8	5	1.6	3
+64.9437	0.2016	65.1453	5	lexical decision	19	word	incongruent	souffle	so u ff le	1	0.7774	100.2	7	4	1.75	1
+67.6338	0.2029	67.8367	5	lexical decision	20	word	congruent	contraire	c on t r ai re	1	0.6093	126.01	9	6	1.5	2
+70.012	0.2015	70.2135	5	lexical decision	21	word	incongruent	choquante	c ho q ua n te	1	1.705	1.69	9	5	1.8	2
+72.6699	0.2014	72.8713	5	lexical decision	22	word	congruent	plainte	p l ain te	1	0.5152	26.69	7	4	1.75	1
+75.049	0.2017	75.2508	5	lexical decision	23	word	incongruent	tronche	t ro nc he	1	0.444	25.68	7	4	1.75	1
+82.3145	0.2015	82.516	5	lexical decision	24	pseudoword	congruent	vanrreau	v an rr eau	1	1.0194	n/a	8	4	2	2
+86.9355	0.2015	87.137	5	lexical decision	25	word	incongruent	soucieuse	so uc ie u s e	1	0.7123	16.62	9	6	1.5	2
+89.27	0.2015	89.4715	5	lexical decision	26	word	incongruent	saillante	s ai lla nt e	0	0.7839	10.07	9	5	1.8	2
+91.9462	0.2015	92.1477	5	lexical decision	27	word	congruent	nymphe	n ym phe	1	0.8636	5.81	6	3	2	1
+94.3095	0.2015	94.511	5	lexical decision	28	word	incongruent	beignet	be ig ne t	1	0.7412	2.77	7	4	1.75	2
+96.6871	0.2015	96.8886	5	lexical decision	29	word	congruent	avant	a v ant	1	0.6327	21.35	5	3	1.667	2
+99.0365	0.2015	99.238	5	lexical decision	30	pseudoword	incongruent	abanffant	a ba nf fa nt	1	0.8062	n/a	9	5	1.8	3
+101.428	0.2014	101.6294	5	lexical decision	31	word	congruent	content	c on t ent	1	0.4637	86.49	7	4	1.75	2
+103.8091	0.2013	104.0105	5	lexical decision	32	word	congruent	consoeur	c on s oeu r	1	0.9795	0.68	8	5	1.6	2
+106.1675	0.2013	106.3689	5	lexical decision	33	word	congruent	guirlande	gu i r l an de	1	0.6481	9.05	9	6	1.5	2
+108.5473	0.2013	108.7486	5	lexical decision	34	word	incongruent	sentence	se n te n ce	1	0.6154	5.68	8	5	1.6	2
+110.8676	0.2013	111.069	5	lexical decision	35	pseudoword	incongruent	anloiche	a n lo i che	1	0.6199	n/a	8	5	1.6	2
+113.1887	0.2016	113.3904	5	lexical decision	36	word	incongruent	raisin	ra i si n	1	2.0208	9.53	6	4	1.5	2
+115.8081	0.202	116.0101	5	lexical decision	37	pseudoword	congruent	baiffier	b ai ff i er	1	1.0044	n/a	8	5	1.6	2
+118.4281	0.2016	118.6298	5	lexical decision	38	word	incongruent	surchauffe	s u rc ha uff e	1	0.7424	0.27	10	6	1.667	2
+120.8124	0.2022	121.0146	5	lexical decision	39	word	incongruent	rencontre	re n co n t re	1	0.796	81.76	9	6	1.5	2
+123.4679	0.2014	123.6693	5	lexical decision	40	pseudoword	incongruent	foncousie	fo n co u si e	0	0.7106	n/a	9	6	1.5	3
+125.8819	0.2015	126.0834	5	lexical decision	41	pseudoword	congruent	inrension	in r en s i on 	1	0.7605	n/a	9	6	1.5	3
+128.2092	0.2017	128.4109	5	lexical decision	42	pseudoword	congruent	ascenmien	a sc en m i en	1	0.7282	n/a	9	6	1.5	3
+130.8863	0.2015	131.0878	5	lexical decision	43	pseudoword	congruent	rymphe	r ym phe	1	0.777	n/a	6	3	2	1
+133.2479	0.2014	133.4494	5	lexical decision	44	word	congruent	maîtresse	m aî t r esse	1	0.7665	53.92	9	6	1.5	2
+135.6283	0.2022	135.8305	5	lexical decision	45	word	congruent	mendiant	m en d i ant	1	0.8019	11.76	8	5	1.6	2
+138.2889	0.2016	138.4905	5	lexical decision	46	word	incongruent	couchette	co uc het te	0	0.7444	6.28	9	5	1.8	2
+140.668	0.2019	140.87	5	lexical decision	47	word	congruent	conseiller	c on s e ill er	1	0.6072	19.32	10	6	1.667	3
+143.3274	0.2023	143.5297	5	lexical decision	48	word	congruent	balluchon	b a ll u ch on	1	0.7039	0.54	9	6	1.5	3
+145.7061	0.202	145.908	5	lexical decision	49	pseudoword	congruent	bauillet	b au ill et	1	0.731	n/a	8	4	2	2
+148.0693	0.2016	148.2709	5	lexical decision	50	word	congruent	bâillement	b â ill e m ent	1	0.5298	4.19	10	6	1.667	3
+150.4474	0.2015	150.6489	5	lexical decision	51	pseudoword	congruent	chuquon	ch u qu on	1	0.7576	n/a	7	4	1.75	2
+155.4103	0.2013	155.6116	5	lexical decision	52	word	incongruent	couveuse	co u ve use	1	1.0818	0.95	8	5	1.6	2
+157.8068	0.2013	158.0081	5	lexical decision	53	pseudoword	congruent	hupeur	hu p eur	1	0.6162	n/a	6	4	1.5	2
+160.1239	0.2014	160.3253	5	lexical decision	54	pseudoword	congruent	pombant	p om b ant	0	0.5421	n/a	7	4	1.75	2
+162.5029	0.2018	162.7047	5	lexical decision	55	word	incongruent	frein	f rei n	1	0.692	13.18	5	3	1.667	1
+164.8659	0.2016	165.0675	5	lexical decision	56	word	congruent	chapeau	ch a p eau	1	0.5611	88.04	7	4	1.75	2
+167.2459	0.2015	167.4475	5	lexical decision	57	word	incongruent	manquant	ma nq ua nt	1	1.2709	2.23	8	4	2	2
+169.5715	0.2017	169.7732	5	lexical decision	58	word	congruent	château	ch â t eau	1	0.8103	74.12	7	4	1.75	2
+171.8872	0.2015	172.0887	5	lexical decision	59	pseudoword	incongruent	conteilant	co n te i la nt	1	0.6718	n/a	10	6	1.667	3
+174.5664	0.2016	174.768	5	lexical decision	60	pseudoword	incongruent	bouquon	bo uq uo n	1	0.7164	n/a	7	4	1.75	2
+176.9261	0.2015	177.1276	5	lexical decision	61	pseudoword	congruent	enreinte	en r ein te	1	1.0777	n/a	8	4	2	2
+179.2937	0.2016	179.4952	5	lexical decision	62	pseudoword	incongruent	psougeuse	p so u ge u se	1	0.6491	n/a	9	6	1.5	2
+181.6654	0.2019	181.8673	5	lexical decision	63	pseudoword	incongruent	poigeain	po ig ea in	1	1.1214	n/a	8	5	1.6	2
+184.0479	0.2016	184.2495	5	lexical decision	64	pseudoword	incongruent	veillouse	v ei l lo use	1	0.7108	n/a	9	5	1.8	2
+186.4642	0.2016	186.6658	5	lexical decision	65	word	congruent	louveteau	l ou v e t eau	1	0.8324	2.36	9	6	1.5	3
+191.0913	0.2015	191.2928	5	lexical decision	66	word	incongruent	feuillage	fe u il lag e	1	0.7053	23.72	9	5	1.8	2
+193.4255	0.2016	193.6272	5	lexical decision	67	pseudoword	incongruent	alléchauce	a ll éc ha u ce	0	0.8191	n/a	10	6	1.667	3
+195.8071	0.2015	196.0086	5	lexical decision	68	word	congruent	repoussant	r e p ou ss ant	1	0.9774	2.57	10	6	1.667	3
+201.069	0.2016	201.2706	5	lexical decision	69	pseudoword	congruent	vencouge	v en c ou ge	1	0.6694	n/a	8	5	1.6	2
+203.4223	0.2015	203.6238	5	lexical decision	70	word	incongruent	braille	b rai l le	1	1.3552	0.47	7	4	1.75	1
+206.1004	0.2013	206.3018	5	lexical decision	71	pseudoword	congruent	constaige	c on s t ai ge	1	0.7529	n/a	9	6	1.5	2
+208.4821	0.2013	208.6833	5	lexical decision	72	word	incongruent	hargneuse	h ar g ne use	0	0.8214	9.46	9	5	1.8	2
+213.1273	0.2013	213.3287	5	lexical decision	73	pseudoword	congruent	bachechon	b a ch e ch on	1	0.892	n/a	9	6	1.5	3
+215.765	0.2014	215.9665	5	lexical decision	74	word	incongruent	fantaisie	fa n ta i si e	1	0.5834	16.89	9	6	1.5	3
+218.1445	0.2016	218.3461	5	lexical decision	75	word	incongruent	gouttière	go u tt iè re	1	0.8337	10.95	9	6	1.5	2
+225.4122	0.2015	225.6137	5	lexical decision	76	pseudoword	congruent	fourmand	f ou r m and	1	0.703	n/a	8	5	1.6	2
+227.8253	0.2015	228.0268	5	lexical decision	77	pseudoword	incongruent	feuillate	fe u il lat e	1	0.9888	n/a	9	5	1.8	2
+230.4825	0.2015	230.6839	5	lexical decision	78	word	congruent	jambe	j am be	1	0.4877	220.95	5	3	1.667	1
+232.8624	0.2021	233.0645	5	lexical decision	79	pseudoword	congruent	lointeau	l oin t eau	1	0.8816	n/a	8	5	1.6	2
+235.2321	0.2017	235.4338	5	lexical decision	80	word	congruent	conjoint	c on j oint	1	1.3681	0.95	8	5	1.6	2
+237.9056	0.2015	238.1071	5	lexical decision	81	word	incongruent	babouche	b a bo uc he	1	1.4664	2.64	8	5	1.6	2
+242.5875	0.2015	242.789	5	lexical decision	82	pseudoword	incongruent	choupache	c ho up ac he	1	0.7136	n/a	9	5	1.8	2
+249.5327	0.2023	249.735	5	lexical decision	83	pseudoword	incongruent	batougne	b a to ug ne	1	1.6532	n/a	8	5	1.6	2
+251.8931	0.2017	252.0948	5	lexical decision	84	pseudoword	congruent	chetant	ch e t ant	1	0.7488	n/a	7	4	1.75	2
+254.602	0.2014	254.8034	5	lexical decision	85	word	incongruent	montant	mo n ta nt	1	0.7119	12.84	7	4	1.75	2
+256.9585	0.2015	257.16	5	lexical decision	86	pseudoword	incongruent	congon	co n go n	1	0.6603	n/a	6	4	1.5	2
+261.9436	0.2014	262.145	5	lexical decision	87	word	congruent	teigne	t ei gne	1	1.1811	1.15	6	3	2	1
+264.2827	0.2013	264.4841	5	lexical decision	88	pseudoword	incongruent	encheupée	e nc he upé e	1	0.6561	n/a	9	5	1.8	3
+266.9625	0.2016	267.1641	5	lexical decision	89	pseudoword	incongruent	noumon	no u mo n	1	0.6542	n/a	6	4	1.5	2
+269.6218	0.2022	269.824	5	lexical decision	90	pseudoword	incongruent	peuleau	pe u lea u	1	0.8999	n/a	7	4	1.75	2
+271.9816	0.2016	272.1832	5	lexical decision	91	pseudoword	congruent	meillot	m e ill ot	1	0.8869	n/a	7	4	1.75	2
+274.3627	0.2026	274.5653	5	lexical decision	92	pseudoword	congruent	blauche	b l au che	1	0.582	n/a	7	4	1.75	1
+276.7427	0.202	276.9447	5	lexical decision	93	pseudoword	incongruent	trambeau	tr a mb ea u	1	0.5878	n/a	8	5	1.6	2
+279.4011	0.2015	279.6025	5	lexical decision	94	pseudoword	congruent	chouse	ch ou se	1	0.5776	n/a	6	3	2	1
+281.7843	0.2014	281.9857	5	lexical decision	95	word	congruent	souffrant	s ou ff r ant	1	0.6202	5.14	9	5	1.8	2
+289.0498	0.2015	289.2513	5	lexical decision	96	word	incongruent	prochain	p ro c hai n	1	0.7156	59.32	8	5	1.6	2
+291.7589	0.2015	291.9604	5	lexical decision	97	pseudoword	congruent	gougue	g ou gue	1	0.6495	n/a	6	3	2	1
+294.4219	0.2015	294.6234	5	lexical decision	98	pseudoword	incongruent	roncoeuf	ro n co e uf	1	0.6886	n/a	8	5	1.6	2
+296.7992	0.2016	297.0008	5	lexical decision	99	pseudoword	incongruent	roeud	ro eud	1	0.639	n/a	5	2	2.5	1
+301.764	0.2023	301.9664	5	lexical decision	100	word	incongruent	cinglant	ci ng la nt	0	n/a	2.77	8	5	1.6	2
+304.4005	0.2016	304.6021	5	lexical decision	101	pseudoword	congruent	auvaid	au v aid	1	0.4318	n/a	6	3	2	2
+309.0814	0.2014	309.2828	5	lexical decision	102	word	incongruent	embout	e mbo ut	1	0.9397	0.81	6	3	2	2
+311.419	0.2013	311.6204	5	lexical decision	103	pseudoword	incongruent	breille	b rei l le	1	0.6452	n/a	7	4	1.75	1
+313.801	0.2013	314.0023	5	lexical decision	104	word	congruent	lionceau	l i on c eau	1	0.6892	1.01	8	5	1.6	2
+316.1609	0.2048	316.3657	5	lexical decision	105	word	incongruent	bleuet	b le ue t	1	0.8733	1.22	6	4	1.5	2
+318.5397	0.2022	318.7419	5	lexical decision	106	pseudoword	incongruent	freau	f rea u	1	0.7683	n/a	5	3	1.667	1
+320.8947	0.2014	321.0961	5	lexical decision	107	word	congruent	ronronnant	r on r o nn ant	1	0.7194	0.81	10	6	1.667	3
+323.5806	0.2016	323.7822	5	lexical decision	108	word	congruent	maillon	m a ill on	1	1.0554	3.18	7	4	1.75	2
+326.2405	0.2027	326.4432	5	lexical decision	109	pseudoword	incongruent	invrant	i nv ra nt	1	0.6635	n/a	7	4	1.75	2
+328.6204	0.2017	328.8221	5	lexical decision	110	pseudoword	congruent	encansin	en c an s in 	1	0.8165	n/a	8	5	1.6	3
+331.027	0.2014	331.2284	5	lexical decision	111	pseudoword	incongruent	entouillé	e n to ui llé	0	n/a	n/a	9	5	1.8	3
+333.3629	0.2022	333.565	5	lexical decision	112	pseudoword	incongruent	caitiment	ca i t i me nt	1	0.714	n/a	9	6	1.5	3
+338.6426	0.2015	338.8441	5	lexical decision	113	pseudoword	congruent	loutte	l ou tte	1	1.2371	n/a	6	3	2	1
+340.977	0.2016	341.1787	5	lexical decision	114	word	congruent	fainéante	f ai n é an te	1	0.7208	1.89	9	6	1.5	3
+348.5478	0.2015	348.7493	5	lexical decision	115	word	incongruent	euphorie	e up h or ie	1	0.656	8.11	8	5	1.6	3
+351.2586	0.2014	351.4601	5	lexical decision	116	word	incongruent	hindou	hi ndo u	1	0.7381	2.03	6	3	2	2
+353.9228	0.2021	354.1249	5	lexical decision	117	pseudoword	congruent	ennaitose	en n ai t o se	1	0.6068	n/a	9	6	1.5	3
+356.3175	0.2013	356.5189	5	lexical decision	118	pseudoword	congruent	incequant	in c e qu ant	1	0.9232	n/a	9	5	1.8	3
+358.6572	0.2013	358.8585	5	lexical decision	119	word	congruent	humour	hu m ou r	1	0.6774	16.76	6	4	1.5	2
+361.3278	0.2014	361.5292	5	lexical decision	120	word	incongruent	endeuillé	e n de ui llé	1	0.7988	1.35	9	5	1.8	3
+380.977885976186	5	385.977885976186	6	instructions reading aloud	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+391.1787	0.2019	391.3807	6	reading aloud	1	pseudoword	congruent	ransaise	r an s ai se	1	1.3442	n/a	8	5	1.6	2
+393.6369	0.2015	393.8384	6	reading aloud	2	word	incongruent	bouée	bo ué e	1	0.6437	5.47	5	3	1.667	1
+398.6236	0.2015	398.8251	6	reading aloud	3	word	incongruent	envieuse	e nv ie u se	1	0.9475	1.76	8	5	1.6	2
+406.166	0.2026	406.3685	6	reading aloud	4	word	congruent	chambre	ch am b re	1	0.8928	413.31	7	4	1.75	1
+408.8566	0.2013	409.0579	6	reading aloud	5	pseudoword	congruent	maissanle	m ai ss an le	1	1.0188	n/a	9	5	1.8	2
+411.5356	0.2016	411.7372	6	reading aloud	6	pseudoword	congruent	enssête	en ss ê te	1	0.9701	n/a	7	4	1.75	2
+414.1952	0.2013	414.3965	6	reading aloud	7	pseudoword	incongruent	douvant	do u va nt	1	0.6314	n/a	7	4	1.75	2
+418.88	0.2015	419.0815	6	reading aloud	8	pseudoword	incongruent	ennionde	e nn io n de	0	n/a	n/a	8	5	1.6	2
+421.3172	0.2015	421.5186	6	reading aloud	9	word	incongruent	pingouin	pi n go ui n	1	0.6491	2.64	8	5	1.6	2
+423.7775	0.2016	423.9792	6	reading aloud	10	word	congruent	dessin	d e ss in	1	0.6643	56.28	6	4	1.5	2
+426.4583	0.2015	426.6598	6	reading aloud	11	word	congruent	chaudron	ch au d r on	1	0.5409	5.81	8	5	1.6	2
+431.2234	0.2015	431.4248	6	reading aloud	12	pseudoword	incongruent	mouquetant	mo u q ue ta nt	1	0.9659	n/a	10	6	1.667	3
+433.6358	0.2015	433.8374	6	reading aloud	13	pseudoword	incongruent	angnage	a ng na ge	1	0.827	n/a	7	4	1.75	2
+436.0369	0.2014	436.2383	6	reading aloud	14	word	congruent	aubaine	au b ai ne	1	0.9894	5.81	7	4	1.75	2
+438.4148	0.2017	438.6164	6	reading aloud	15	pseudoword	incongruent	cain	ca in	1	1.3626	n/a	4	2	2	1
+440.7778	0.202	440.9798	6	reading aloud	16	pseudoword	congruent	ittamance	i tt a m an ce	1	1.074	n/a	9	6	1.5	3
+445.4598	0.202	445.6618	6	reading aloud	17	word	incongruent	chiffon	c hi ffo n	1	0.9509	18.99	7	4	1.75	2
+448.0982	0.2016	448.2998	6	reading aloud	18	pseudoword	congruent	engourrant	en g ou rr ant	1	0.9289	n/a	10	5	2	3
+450.4583	0.2015	450.6597	6	reading aloud	19	pseudoword	incongruent	moeutien	m oe u ti en	1	1.0074	n/a	8	5	1.6	2
+455.7386	0.2015	455.9401	6	reading aloud	20	pseudoword	congruent	éphon	é ph on	1	0.7373	n/a	5	3	1.667	2
+458.4758	0.2013	458.6771	6	reading aloud	21	word	congruent	vainqueur	v ain qu eu r	1	0.6413	11.35	9	5	1.8	2
+463.5383	0.2018	463.7402	6	reading aloud	22	word	congruent	flambeau	f l am b eau	1	0.9229	7.09	8	5	1.6	2
+465.9744	0.2014	466.1759	6	reading aloud	23	word	incongruent	guerrier	g u er rie r	1	0.7579	10	8	5	1.6	2
+468.3537	0.2013	468.5551	6	reading aloud	24	word	incongruent	couvent	co uv e nt	1	0.7602	26.15	7	4	1.75	2
+471.015	0.2015	471.2165	6	reading aloud	25	word	congruent	poumon	p ou m on	1	0.7794	21.55	6	4	1.5	2
+473.3975	0.2018	473.5992	6	reading aloud	26	pseudoword	congruent	canvonant	c an v o nant	1	1.2345	n/a	9	6	1.5	3
+478.6624	0.2018	478.8642	6	reading aloud	27	word	incongruent	saisissant	sa is i s sa nt	1	0.9958	5	10	6	1.667	3
+481.3947	0.2015	481.5962	6	reading aloud	28	word	congruent	atteinte	a tt ein te	1	0.8479	7.97	8	4	2	2
+483.7736	0.2019	483.9755	6	reading aloud	29	word	incongruent	emphase	e mp ha se	1	0.781	5.27	7	4	1.75	2
+486.436	0.2016	486.6377	6	reading aloud	30	pseudoword	incongruent	bantant	ba n tan t	1	0.7793	n/a	7	4	1.75	2
+488.8167	0.2016	489.0184	6	reading aloud	31	pseudoword	incongruent	détouille	d ét o ui lle	1	0.8759	n/a	9	5	1.8	2
+491.1765	0.2015	491.378	6	reading aloud	32	word	congruent	teigneuse	t ei gn eu se	1	0.7492	2.84	9	5	1.8	2
+493.8531	0.2016	494.0548	6	reading aloud	33	word	incongruent	courant	co ur a nt	1	0.6252	79.73	7	4	1.75	2
+498.5166	0.2015	498.718	6	reading aloud	34	word	incongruent	hanche	ha nc he	1	0.844	32.36	6	2	3	1
+501.1536	0.2015	501.3551	6	reading aloud	35	pseudoword	incongruent	prouche	p ro uc he	1	0.8297	n/a	7	4	1.75	1
+503.8347	0.2016	504.0363	6	reading aloud	36	word	incongruent	éreintant	é rei n ta nt	1	0.8606	0.14	9	5	1.8	3
+506.1943	0.2016	506.3959	6	reading aloud	37	word	incongruent	chauffant	c ha uffa nt	1	0.553	0.41	9	4	2.25	2
+508.572	0.2018	508.7738	6	reading aloud	38	word	congruent	néant	n é ant	1	0.6139	23.99	5	3	1.667	2
+510.9332	0.2014	511.1346	6	reading aloud	39	pseudoword	congruent	enteuvant	en t eu v ant	1	0.7134	n/a	9	5	1.8	3
+513.3133	0.2014	513.5147	6	reading aloud	40	word	congruent	continent	c on t i n ent	1	0.7811	15.95	9	6	1.5	3
+515.6915	0.2014	515.8929	6	reading aloud	41	word	congruent	honteuse	hon t eu se	1	0.7279	22.3	8	4	2	2
+520.3581	0.2015	520.5596	6	reading aloud	42	pseudoword	congruent	ovougeade	o v ou ge a de	0	n/a	n/a	9	6	1.5	3
+522.6937	0.2015	522.8952	6	reading aloud	43	pseudoword	incongruent	moûtant	mo ût a nt	1	0.6644	n/a	7	4	1.75	2
+525.0745	0.2015	525.276	6	reading aloud	44	pseudoword	congruent	embreince	em b r ein ce	1	0.6627	n/a	9	5	1.8	2
+527.4561	0.2017	527.6578	6	reading aloud	45	word	congruent	fournaise	f ou r n ai se	1	0.6306	3.18	9	6	1.5	2
+530.2156	0.2017	530.4173	6	reading aloud	46	word	incongruent	éléphant	él ép ha n t	1	0.7403	15.2	8	5	1.6	3
+532.593	0.2015	532.7944	6	reading aloud	47	pseudoword	incongruent	fenteau	fe n te au	1	0.6819	n/a	7	4	1.75	2
+535.0518	0.2014	535.2532	6	reading aloud	48	pseudoword	incongruent	jouanre	jo ua nr e	1	1.046	n/a	7	4	1.75	1
+537.433	0.2018	537.6347	6	reading aloud	49	word	incongruent	embauche	e mba uc he	1	0.799	2.97	8	4	2	2
+540.0952	0.2016	540.2968	6	reading aloud	50	pseudoword	congruent	maîcheton	m aî ch e t on	1	0.9039	n/a	9	6	1.5	3
+545.1561	0.2014	545.3576	6	reading aloud	51	pseudoword	congruent	saimeau	s ai m eau	1	1.2735	n/a	7	4	1.75	2
+547.5111	0.2018	547.7128	6	reading aloud	52	pseudoword	incongruent	pangné	pa ng né	1	0.571	n/a	6	4	1.5	2
+549.8726	0.2014	550.074	6	reading aloud	53	word	congruent	sentant	s en t ant	1	0.6611	2.84	7	4	1.75	2
+552.2526	0.2018	552.4543	6	reading aloud	54	word	incongruent	enfance	e nfa nc e	1	0.888	103.99	7	4	1.75	2
+554.712	0.2016	554.9135	6	reading aloud	55	word	incongruent	saison	sa i so n	1	0.8505	49.59	6	4	1.5	2
+557.0922	0.2016	557.2938	6	reading aloud	56	pseudoword	congruent	chousou	ch ou s ou	0	n/a	n/a	7	4	1.75	2
+559.4693	0.2013	559.6706	6	reading aloud	57	pseudoword	incongruent	aige	a ige	0	n/a	n/a	4	2	2	1
+561.8313	0.2014	562.0327	6	reading aloud	58	pseudoword	incongruent	mouquon	mo uq uo n	1	0.7292	n/a	7	4	1.75	2
+564.5108	0.2013	564.7121	6	reading aloud	59	word	incongruent	bouleau	bo u lea u	1	0.609	4.05	7	4	1.75	2
+572.1792	0.2015	572.3806	6	reading aloud	60	word	congruent	gloussant	g l ou ss ant	1	0.74	0.54	9	5	1.8	2
+574.5927	0.2015	574.7942	6	reading aloud	61	word	incongruent	baigneur	ba ig ne u r	1	0.7885	10	8	5	1.6	2
+576.9529	0.2016	577.1545	6	reading aloud	62	pseudoword	incongruent	chossemain	c ho s se ma in	1	0.6081	n/a	10	6	1.667	3
+579.3282	0.2018	579.53	6	reading aloud	63	word	congruent	champ	ch amp	1	0.5934	106.49	5	2	2.5	1
+581.6919	0.202	581.8939	6	reading aloud	64	pseudoword	congruent	édoulette	é d ou l ette	1	0.8407	n/a	9	6	1.5	3
+584.3696	0.2015	584.5711	6	reading aloud	65	word	congruent	essai	e ss ai	1	0.8795	14.86	5	3	1.667	2
+586.8309	0.2022	587.033	6	reading aloud	66	word	incongruent	banquet	ba nq ue t	1	0.8212	5.88	7	4	1.75	2
+589.2111	0.2015	589.4126	6	reading aloud	67	word	congruent	longueur	l on gu eu r	0	n/a	28.45	8	5	1.6	2
+591.5706	0.2014	591.7721	6	reading aloud	68	word	incongruent	chatouille	c ha to ui lle	1	0.7923	0.54	10	5	2	2
+593.9486	0.2015	594.15	6	reading aloud	69	pseudoword	incongruent	aite	a ite	1	1.0932	n/a	4	2	2	1
+596.3305	0.2031	596.5335	6	reading aloud	70	pseudoword	incongruent	lonteau	lo nt ea u	1	1.2054	n/a	7	4	1.75	2
+599.0914	0.2015	599.2929	6	reading aloud	71	pseudoword	congruent	aupoune	au p ou ne	1	0.7525	n/a	7	4	1.75	2
+601.8505	0.2014	602.052	6	reading aloud	72	pseudoword	congruent	banchon	b an ch on	1	0.8513	n/a	7	4	1.75	2
+606.5348	0.2014	606.7363	6	reading aloud	73	pseudoword	congruent	chotant	ch o t ant	1	0.5895	n/a	7	4	1.75	2
+609.1713	0.2017	609.373	6	reading aloud	74	word	incongruent	fourchette	fo ur c he tte	1	0.7881	14.19	10	6	1.667	2
+614.1517	0.2019	614.3536	6	reading aloud	75	pseudoword	incongruent	brouche	b ro uc he	1	0.758	n/a	7	4	1.75	1
+616.4906	0.2013	616.692	6	reading aloud	76	word	congruent	araignée	a r ai gn ée	1	1.151	17.84	8	5	1.6	3
+618.8501	0.2013	619.0514	6	reading aloud	77	word	congruent	engouement	en g oue m ent	1	0.9623	1.55	10	5	2	3
+621.5282	0.2023	621.7305	6	reading aloud	78	word	incongruent	fondant	fo n da nt	1	0.697	2.7	7	4	1.75	2
+623.8893	0.2017	624.0909	6	reading aloud	79	word	congruent	chameau	ch a m eau	1	0.6924	10.54	7	4	1.75	2
+626.5692	0.2017	626.7709	6	reading aloud	80	pseudoword	incongruent	enchose	e nc ho se	1	0.9885	n/a	7	4	1.75	2
+628.929	0.2014	629.1304	6	reading aloud	81	pseudoword	congruent	asseinse	a ss ein se	0	n/a	n/a	8	4	2	2
+631.3087	0.2016	631.5103	6	reading aloud	82	word	incongruent	douillet	do uil let	1	0.6697	6.96	8	4	2	2
+633.6733	0.2016	633.8749	6	reading aloud	83	pseudoword	incongruent	orrigninse	o r ri gni n se	0	n/a	n/a	10	6	1.667	3
+636.0469	0.202	636.2489	6	reading aloud	84	pseudoword	congruent	chain	ch ain	1	0.5758	n/a	5	2	2.5	1
+638.4321	0.2014	638.6335	6	reading aloud	85	word	incongruent	verrouillé	v er ro ui ll é	1	0.912	1.08	10	6	1.667	3
+641.1904	0.2015	641.3919	6	reading aloud	86	pseudoword	incongruent	feurchille	fe ur c hi lle	0	n/a	n/a	10	6	1.667	2
+645.9336	0.2015	646.1352	6	reading aloud	87	word	incongruent	toucher	to uc he r	1	0.7785	10.14	7	4	1.75	2
+648.3079	0.2025	648.5104	6	reading aloud	88	pseudoword	congruent	chanffaim	ch an ff aim	1	0.9514	n/a	9	5	1.8	2
+650.7697	0.2016	650.9713	6	reading aloud	89	pseudoword	incongruent	fauscant	fa us can t	0	n/a	n/a	8	4	2	2
+653.1492	0.2015	653.3507	6	reading aloud	90	pseudoword	congruent	dounnin	d ou nn in	1	0.6151	n/a	7	4	1.75	2
+655.9061	0.2016	656.1076	6	reading aloud	91	pseudoword	congruent	hossant	ho ss ant	1	0.7438	n/a	7	4	1.75	2
+658.291	0.2023	658.4933	6	reading aloud	92	pseudoword	congruent	sengeonie	s en ge o n ie	1	1.3884	n/a	9	6	1.5	3
+660.6488	0.2014	660.8501	6	reading aloud	93	pseudoword	congruent	enquandée	en qu an d ée	1	0.9241	n/a	9	5	1.8	3
+663.0283	0.2013	663.2296	6	reading aloud	94	word	congruent	chanson	ch an s on	1	0.8716	46.55	7	4	1.75	2
+665.6863	0.2013	665.8876	6	reading aloud	95	pseudoword	incongruent	cambant	ca mb a nt	1	0.7458	n/a	7	4	1.75	2
+668.0663	0.2013	668.2676	6	reading aloud	96	pseudoword	incongruent	bonlant	bo nl an t	0	n/a	n/a	7	4	1.75	2
+670.5036	0.2013	670.7048	6	reading aloud	97	word	incongruent	aile	a ile	1	0.9798	60.47	4	2	2	1
+672.9088	0.2017	673.1104	6	reading aloud	98	word	congruent	embrun	em b r un	1	0.7782	2.97	6	4	1.5	2
+675.29	0.2019	675.4918	6	reading aloud	99	word	congruent	composant	c om p o s ant	1	0.7291	1.49	9	6	1.5	3
+680.351	0.2017	680.5526	6	reading aloud	100	word	incongruent	haillon	h ai llo n	1	0.6472	3.78	7	3	2.333	2
+690.3004	0.2012	690.5016	6	reading aloud	101	word	congruent	offensant	o ff en s ant	0	n/a	1.01	9	5	1.8	3
+692.9663	0.2017	693.168	6	reading aloud	102	pseudoword	incongruent	condant	co nd an t	1	0.7725	n/a	7	4	1.75	2
+695.7265	0.2016	695.9281	6	reading aloud	103	word	incongruent	agneau	ag nea u	1	0.7128	8.78	6	3	2	2
+700.7111	0.2015	700.9127	6	reading aloud	104	pseudoword	incongruent	pausson	pa us so n	0	n/a	n/a	7	4	1.75	2
+703.0477	0.2014	703.2492	6	reading aloud	105	word	congruent	ambiance	am b i an ce	1	0.6918	11.55	8	5	1.6	2
+705.4282	0.2016	705.6298	6	reading aloud	106	pseudoword	congruent	rangessant	r an g e ss ant	0	n/a	n/a	10	6	1.667	3
+708.086	0.202	708.2881	6	reading aloud	107	word	congruent	plaine	p l ai ne	1	0.6973	39.86	6	4	1.5	1
+710.4674	0.2017	710.6692	6	reading aloud	108	pseudoword	congruent	oufrence	ou f r en ce	0	n/a	n/a	8	5	1.6	2
+712.8251	0.2014	713.0265	6	reading aloud	109	pseudoword	incongruent	canchin	ca nc hi n	1	0.9104	n/a	7	4	1.75	2
+717.8066	0.2013	718.0079	6	reading aloud	110	word	congruent	neuve	n eu ve	1	1.3062	113.18	5	3	1.667	1
+720.5448	0.2013	720.7462	6	reading aloud	111	pseudoword	congruent	paisin	p ai s in	0	n/a	n/a	6	4	1.5	2
+723.207	0.2015	723.4086	6	reading aloud	112	pseudoword	congruent	soussant	s ou ss ant	1	1.1844	n/a	8	4	2	2
+725.9642	0.2016	726.1658	6	reading aloud	113	word	incongruent	aire	a ire	1	0.8311	5.14	4	2	2	1
+730.6512	0.2017	730.8528	6	reading aloud	114	word	congruent	souillure	s ou ill u re	1	1.021	2.91	9	5	1.8	2
+733.3841	0.2015	733.5856	6	reading aloud	115	word	congruent	oiseau	oi s eau	1	0.911	113.04	6	4	1.5	2
+736.0458	0.2015	736.2472	6	reading aloud	116	pseudoword	congruent	seuillête	s eu ill ê te	1	1.0415	n/a	9	5	1.8	2
+738.4284	0.2016	738.63	6	reading aloud	117	word	incongruent	fauteuil	fa ut e ui l	1	0.7638	102.03	8	5	1.6	2
+741.1878	0.2015	741.3893	6	reading aloud	118	pseudoword	congruent	anduaine	an d u ai ne	0	n/a	n/a	8	5	1.6	2
+743.5647	0.2025	743.7672	6	reading aloud	119	pseudoword	incongruent	bouin	bo ui n	1	0.8951	n/a	5	3	1.667	1
+746.227	0.2015	746.4285	6	reading aloud	120	pseudoword	incongruent	soutresse	so ut re s se	1	0.736	n/a	9	6	1.5	2
