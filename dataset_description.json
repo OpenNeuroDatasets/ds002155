@@ -4,11 +4,12 @@
     "License": "CC0",
     "Authors": [
         "Florence Bouhali",
-        "Zoé Bézagu",
+        "Zo\u00e9 B\u00e9zagu",
         "Stanislas Dehaene",
         "Laurent Cohen"
     ],
     "ReferencesAndLinks": [
         "will be updated upon publication"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002155.v1.0.0"
 }
